@@ -1,7 +1,10 @@
-## Interesting Article
+#Introduction
 
-https://dev.to/jdbar/how-software-development-is-changing-forever-and-how-youll-need-to-change-with-it-1jih
+I will now share a link to IBM's introduction of what is software engineering:
+https://www.ibm.com/think/topics/software-development
 
-## Comment
+"The goal of software development is to create a product that meets user needs and business objectives in an efficient, repeatable and secure way. Software developers, programmers and software engineers develop software through a series of steps called the software development lifecycle (SDLC). Artificial intelligence-powered tools and generative AI are increasingly used to assist software development teams in producing and testing code."
 
-This article talks about the most imporatant problem we are facint right now--which is AI is turning our life out while we are losing jobs.
+#Interepretation
+
+I notice this paragraph is a updated version of the goal of software development in current days, because AI is developing and this must be part of the work scope of SDE.
