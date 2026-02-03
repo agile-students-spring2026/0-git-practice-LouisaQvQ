@@ -8,3 +8,6 @@ https://www.ibm.com/think/topics/software-development
 # Interepretation
 
 I notice this paragraph is a updated version of the goal of software development in current days, because AI is developing and this must be part of the work scope of SDE.
+
+## Comments (Ruilin Ma)
+This overview article from IBM makes software development feel bigger than just “writing code”, it frames it as the full lifecycle of **creating, designing, deploying, and supporting software**, which is the part people often forget when they only think about programming.
